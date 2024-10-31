@@ -1,5 +1,5 @@
 <h3 align="center">
-  <a href="https://302.ai" target="_blank"><img
+  <a href="https://302.ai"><img
     src="https://raw.githubusercontent.com/302ai/.github/refs/heads/main/302AI.png"
     height="110"
   /></a>
@@ -8,6 +8,8 @@
 <h3 align="center">
   <p>A pay-as-you-go AI application platform</p>
 </h3>
+
+[中文](README_zh.md) | [English](README.md) | [日本語](README_ja.md)
 
 ## Open Source Application List
 
