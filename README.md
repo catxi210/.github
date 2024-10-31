@@ -1,8 +1,8 @@
 <h3 align="center">
-  <img
+  <a href="https://302.ai" target="_blank"><img
     src="https://raw.githubusercontent.com/302ai/.github/refs/heads/main/302AI.png"
     height="110"
-  />
+  /></a>
 </h3>
 
 <h3 align="center">
