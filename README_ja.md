@@ -1,0 +1,30 @@
+<h3 align="center">
+  <a href="https://302.ai"><img
+    src="https://raw.githubusercontent.com/302ai/.github/refs/heads/main/302AI.png"
+    height="110"
+  /></a>
+</h3>
+
+<h3 align="center">
+  <p>従量制AIアプリケーションプラットフォーム</p>
+</h3>
+
+[中文](README_zh.md) | [English](README.md) | [日本語](README_ja.md)
+
+## オープンソースアプリケーションリスト
+
+| ツール名 | 説明 | リンク |
+|----------|------|--------|
+| AI画像ツールボックス | 20種類の画像ツールをサポート | [リンク](https://github.com/302ai/302_image_toolbox) |
+| AIプロンプトエキスパート | 構造化されたプロンプトを生成しテスト | [リンク](https://github.com/302ai/302_prompt_generator) |
+| AI動画ジェネレーター | 複数の動画モデルをサポート | [リンク](https://github.com/302ai/302_video_generator) |
+| AIリアルタイム動画翻訳 | AI が動画を翻訳しオンラインで再生 | [リンク](https://github.com/302ai/302_video_translation) |
+| AI音声/動画要約 | ワンクリックで動画内容を要約 | [リンク](https://github.com/302ai/302_video_summary) |
+| AI画像翻訳 | 画像内のテキストを翻訳し新しい画像を生成 | [リンク](https://github.com/302ai/302_image_translation) |
+| AI論文作成 | オンライン情報を検索しAIで長文の論文を生成 | [リンク](https://github.com/302ai/302_paper_writting) |
+| AI音声ジェネレーター | 複数のTTS-APIをサポート | [リンク](https://github.com/302ai/302_tts) |
+| AI音声通話 | リアルタイムAPIを使用したリアルタイム音声チャット | [リンク](https://github.com/302ai/302_voice_call) |
+| AIウェブページジェネレーター | テキストまたは画像入力からReactアプリケーションを生成 | [リンク](https://github.com/302ai/302_coder_generator) |
+| AIポッドキャストジェネレーター | AI音声ポッドキャストを迅速に生成 | [リンク](https://github.com/302ai/302_podcast_generator) |
+| AIコピーライティングアシスタント | プロンプトに基づいてコピーを迅速に最適化 | [リンク](https://github.com/302ai/302_copywriting_assistant) |
+| AI古写真修復 | 古い写真を拡大、色付け、動画化 | [リンク](https://github.com/302ai/302_photo_restore) |
