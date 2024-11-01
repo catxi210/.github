@@ -30,5 +30,6 @@
 | AI Old Photo Restoration | Enlarges, colorizes, and generates videos from old photos | [Link](https://github.com/302ai/302_photo_restore) |
 | AI e-commerce copywriting assistant | Quickly optimizes e-commerce copy based on prompts | [Link](https://github.com/302ai/302_e_commerce_copywriting_assistant) |
 | AI Webpage Summary | Summarize webpage content with one click | [Link](https://github.com/302ai/302_webpage_summary) |
+| AI Avatar Maker | Generate selfies with different styles | [Link](https://github.com/302ai/302_avatar_maker) |
 
 ### Weekly updates, stay tuned.
