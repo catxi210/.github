@@ -15,6 +15,7 @@
 
 | Tool Name | Description | Link |
 |-----------|-------------|------|
+| 302-Dev-Kit | The starting template for all our AI Apps | [Link](https://github.com/302ai/302-Dev-Kit) |
 | AI Image Toolbox | Supports 20 types of image tools | [Link](https://github.com/302ai/302_image_toolbox) |
 | AI Prompt Expert | Generates structured prompts and tests them | [Link](https://github.com/302ai/302_prompt_generator) |
 | AI Video Generator | Supports multiple video models | [Link](https://github.com/302ai/302_video_generator) |
