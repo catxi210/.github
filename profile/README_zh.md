@@ -31,5 +31,6 @@
 | AI电商文案助手| 根据提示词快速生成电商文案 | [链接](https://github.com/302ai/302_e_commerce_copywriting_assistant) |
 | AI网页总结 | 一键总结网页内容 | [链接](https://github.com/302ai/302_webpage_summary) |
 | AI头像制作 | 生成不同风格的自拍头像 | [链接](https://github.com/302ai/302_avatar_maker) |
+| AI电商场景图生成 | 生成电商产品或模特的场景图 | [链接](https://github.com/302ai/302_ecom_image_generator) |
 
 每周更新，保持关注
