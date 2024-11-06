@@ -31,5 +31,6 @@
 | AI電子商取引コピーライティングアシスタント | プロンプトに基づいて電子商取引のコピーを素早く生成 | [リンク](https://github.com/302ai/302_e_commerce_copywriting_assistant) |
 | AIウェブページ要約 | ワンクリックでウェブページの内容を要約 | [リンク](https://github.com/302ai/302_webpage_summary) |
 | AI肖像生成 | さまざまなスタイルの自撮り肖像を作成 | [リンク](https://github.com/302ai/302_avatar_maker) |
+| AI Eコマースシーン画像生成 | Eコマース製品またはモデルのシーン画像の生成 | [リンク](https://github.com/302ai/302_ecom_image_generator) |
 
 毎週更新、ご注目ください
