@@ -31,6 +31,6 @@
 | AI e-commerce copywriting assistant | Quickly optimizes e-commerce copy based on prompts | [Link](https://github.com/302ai/302_e_commerce_copywriting_assistant) |
 | AI Webpage Summary | Summarize webpage content with one click | [Link](https://github.com/302ai/302_webpage_summary) |
 | AI Avatar Maker | Generate selfies with different styles | [Link](https://github.com/302ai/302_avatar_maker) |
-| AI E-commerce Image Generator | Generate model or product Scene images | [link](https://github.com/302ai/302_ecom_image_generator) |
+| AI E-commerce Image Generator | Generate model or product Scene images | [Link](https://github.com/302ai/302_ecom_image_generator) |
 
 ### Weekly updates, stay tuned.
