@@ -15,6 +15,7 @@
 
 | 工具名称 | 描述 | 链接 |
 |----------|------|------|
+| 302-Dev-Kit | 所有工具的初始开发模板 | [Link](https://github.com/302ai/302-Dev-Kit) |
 | AI图像工具箱 | 支持20种图像工具 | [链接](https://github.com/302ai/302_image_toolbox) |
 | AI提示词专家 | 生成结构化提示词并测试 | [链接](https://github.com/302ai/302_prompt_generator) |
 | AI视频生成器 | 支持多种视频模型 | [链接](https://github.com/302ai/302_video_generator) |
