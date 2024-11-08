@@ -34,6 +34,8 @@
 | AI Avatar Maker | Generate selfies with different styles | [Link](https://github.com/302ai/302_avatar_maker) |
 | AI E-commerce Image Generator | Generate model or product Scene images | [Link](https://github.com/302ai/302_ecom_image_generator) |
 | AI ID Photo Generator | Generate ID Photo by one click | [Link](https://github.com/302ai/302_id_photo_generation) |
+| AI Academic Paper Search | Use AI to search and analyze academic papers | [Link](https://github.com/302ai/302_academic_thesis_search) |
+| AI Patent Search | Use AI to search and analyze patents | [Link](https://github.com/302ai/302_patent_search) |
 
 
 ### Weekly updates, stay tuned.
