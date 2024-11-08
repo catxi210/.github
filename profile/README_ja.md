@@ -34,6 +34,8 @@
 | AI肖像生成 | さまざまなスタイルの自撮り肖像を作成 | [リンク](https://github.com/302ai/302_avatar_maker) |
 | AI Eコマースシーン画像生成 | Eコマース製品またはモデルのシーン画像の生成 | [リンク](https://github.com/302ai/302_ecom_image_generator) |
 | AI 証明写真生成 | ワンクリックで証明写真を生成 | [リンク](https://github.com/302ai/302_id_photo_generation) |
+| AI学術検索 | AIを使用して学術論文を検索および分析 | [リンク](https://github.com/302ai/302_academic_thesis_search) |
+| AI特許検索 | AIを使用して特許を検索および分析 | [リンク](https://github.com/302ai/302_patent_search) |
 
 
 毎週更新、ご注目ください
