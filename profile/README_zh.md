@@ -34,6 +34,8 @@
 | AI头像制作 | 生成不同风格的自拍头像 | [链接](https://github.com/302ai/302_avatar_maker) |
 | AI电商场景图生成 | 生成电商产品或模特的场景图 | [链接](https://github.com/302ai/302_ecom_image_generator) |
 | AI 证件照生成 | 一键生成证件照 | [链接](https://github.com/302ai/302_id_photo_generation) |
+| AI学术搜索 | 使用AI搜索和分析学术论文 | [链接](https://github.com/302ai/302_academic_thesis_search) |
+| AI专利搜索 | 使用AI搜索和分析专利 | [链接](https://github.com/302ai/302_patent_search) |
 
 
 每周更新，保持关注
