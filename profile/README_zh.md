@@ -6,7 +6,7 @@
 </h3>
 
 <h3 align="center">
-  <p>按需付费的AI应用平台</p>
+  <p>按需付费的全功能AI应用平台</p>
 </h3>
 
 [中文](README_zh.md) | [English](README.md) | [日本語](README_ja.md)
