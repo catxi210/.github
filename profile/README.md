@@ -6,7 +6,7 @@
 </h3>
 
 <h3 align="center">
-  <p>A pay-as-you-go AI application platform</p>
+  <p>A pay-as-you-go All-In-One AI App platform</p>
 </h3>
 
 [中文](README_zh.md) | [English](README.md) | [日本語](README_ja.md)
