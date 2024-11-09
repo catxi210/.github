@@ -13,29 +13,30 @@
 
 ## 开源应用列表
 
-| 工具名称 | 描述 | 链接 |
-|----------|------|------|
-| 302-Dev-Kit | 所有工具的初始开发模板 | [链接](https://github.com/302ai/302-Dev-Kit) |
-| AI图像工具箱 | 支持20种图像工具 | [链接](https://github.com/302ai/302_image_toolbox) |
-| AI提示词专家 | 生成结构化提示词并测试 | [链接](https://github.com/302ai/302_prompt_generator) |
-| AI视频生成器 | 支持多种视频模型 | [链接](https://github.com/302ai/302_video_generator) |
-| AI实时视频翻译 | AI翻译视频并在线播放 | [链接](https://github.com/302ai/302_video_translation) |
-| AI音视频总结 | 一键总结视频内容 | [链接](https://github.com/302ai/302_video_summary) |
-| AI图像翻译 | 翻译图像中的文字并生成新图像 | [链接](https://github.com/302ai/302_image_translation) |
-| AI论文写作 | 搜索在线信息并用AI生成长篇论文 | [链接](https://github.com/302ai/302_paper_writting) |
-| AI语音生成器 | 支持多种TTS-API | [链接](https://github.com/302ai/302_tts) |
-| AI语音通话 | 使用实时API进行实时语音聊天 | [链接](https://github.com/302ai/302_voice_call) |
-| AI网页生成器 | 从文本或图像输入生成React应用 | [链接](https://github.com/302ai/302_coder_generator) |
-| AI播客生成器 | 快速生成AI语音播客 | [链接](https://github.com/302ai/302_podcast_generator) |
-| AI文案助手 | 根据提示词快速优化文案 | [链接](https://github.com/302ai/302_copywriting_assistant) |
-| AI老照片修复 | 放大、上色并从老照片生成视频 | [链接](https://github.com/302ai/302_photo_restore) |
-| AI电商文案助手| 根据提示词快速生成电商文案 | [链接](https://github.com/302ai/302_e_commerce_copywriting_assistant) |
-| AI网页总结 | 一键总结网页内容 | [链接](https://github.com/302ai/302_webpage_summary) |
-| AI头像制作 | 生成不同风格的自拍头像 | [链接](https://github.com/302ai/302_avatar_maker) |
-| AI电商场景图生成 | 生成电商产品或模特的场景图 | [链接](https://github.com/302ai/302_ecom_image_generator) |
-| AI 证件照生成 | 一键生成证件照 | [链接](https://github.com/302ai/302_id_photo_generation) |
-| AI学术搜索 | 使用AI搜索和分析学术论文 | [链接](https://github.com/302ai/302_academic_thesis_search) |
-| AI专利搜索 | 使用AI搜索和分析专利 | [链接](https://github.com/302ai/302_patent_search) |
+| 工具名称 | 描述 | 链接 | Stars |
+|----------|------|------|-------|
+| 302-Dev-Kit | 所有工具的初始开发模板 | [链接](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
+| AI图像工具箱 | 支持20种图像工具 | [链接](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
+| AI提示词专家 | 生成结构化提示词并测试 | [链接](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
+| AI视频生成器 | 支持多种视频模型 | [链接](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
+| AI实时视频翻译 | AI翻译视频并在线播放 | [链接](https://github.com/302ai/302_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_translation?style=social) |
+| AI音视频总结 | 一键总结视频内容 | [链接](https://github.com/302ai/302_video_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_summary?style=social) |
+| AI图像翻译 | 翻译图像中的文字并生成新图像 | [链接](https://github.com/302ai/302_image_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_translation?style=social) |
+| AI论文写作 | 搜索在线信息并用AI生成长篇论文 | [链接](https://github.com/302ai/302_paper_writting) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_paper_writting?style=social) |
+| AI语音生成器 | 支持多种TTS-API | [链接](https://github.com/302ai/302_tts) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_tts?style=social) |
+| AI语音通话 | 使用实时API进行实时语音聊天 | [链接](https://github.com/302ai/302_voice_call) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_voice_call?style=social) |
+| AI网页生成器 | 从文本或图像输入生成React应用 | [链接](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
+| AI播客生成器 | 快速生成AI语音播客 | [链接](https://github.com/302ai/302_podcast_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social) |
+| AI文案助手 | 根据提示词快速优化文案 | [链接](https://github.com/302ai/302_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social) |
+| AI老照片修复 | 放大、上色并从老照片生成视频 | [链接](https://github.com/302ai/302_photo_restore) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_photo_restore?style=social) |
+| AI电商文案助手| 根据提示词快速生成电商文案 | [链接](https://github.com/302ai/302_e_commerce_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social) |
+| AI网页总结 | 一键总结网页内容 | [链接](https://github.com/302ai/302_webpage_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_webpage_summary?style=social) |
+| AI头像制作 | 生成不同风格的自拍头像 | [链接](https://github.com/302ai/302_avatar_maker) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_avatar_maker?style=social) |
+| AI电商场景图生成 | 生成电商产品或模特的场景图 | [链接](https://github.com/302ai/302_ecom_image_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ecom_image_generator?style=social) |
+| AI 证件照生成 | 一键生成证件照 | [链接](https://github.com/302ai/302_id_photo_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social) |
+| AI学术搜索 | 使用AI搜索和分析学术论文 | [链接](https://github.com/302ai/302_academic_thesis_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social) |
+| AI专利搜索 | 使用AI搜索和分析专利 | [链接](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
+
 
 
 每周更新，保持关注
