@@ -11,7 +11,12 @@
 
 [中文](README_zh.md) | [English](README.md) | [日本語](README_ja.md)
 
-## Open Source Application List
+## Online Experience
+All tools can be used online without deployment on the 302.AI platform: [Link](https://302.ai/tools/).
+
+It is recommended to experience online first, and then find the projects you are interested in from the list for private deployment or secondary development.
+
+## Open Source List
 
 | Tool Name | Description | Link | Stars |
 |-----------|-------------|------|-------|
