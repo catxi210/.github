@@ -21,6 +21,7 @@
 | 工具名称 | 描述 | 链接 | Stars |
 |----------|------|------|-------|
 | 302-Dev-Kit | 所有工具的初始开发模板 | [链接](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
+| 302-LLM-Playground | 强大的LLM Playground | [链接](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | AI图像工具箱 | 支持20种图像工具 | [链接](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | AI提示词专家 | 生成结构化提示词并测试 | [链接](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
 | AI视频生成器 | 支持多种视频模型 | [链接](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
