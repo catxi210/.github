@@ -21,6 +21,7 @@
 | ツール名 | 説明 | リンク | Stars |
 |----------|------|--------|-------|
 | 302-Dev-Kit | すべてのツールの初期開発テンプレート | [リンク](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
+| 302-LLM-Playground | 強力なLLM Playground | [リンク](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | AI画像ツールボックス | 20種類の画像ツールをサポート | [リンク](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | AIプロンプトエキスパート | 構造化されたプロンプトを生成しテスト | [リンク](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
 | AI動画ジェネレーター | 複数の動画モデルをサポート | [リンク](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
