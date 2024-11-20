@@ -21,6 +21,7 @@ It is recommended to experience online first, and then find the projects you are
 | Tool Name | Description | Link | Stars |
 |-----------|-------------|------|-------|
 | 302-Dev-Kit | The starting template for all our AI Apps | [Link](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
+| 302-LLM-Playground | A powerful and interactive playground for experimenting LLM | [Link](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
 | AI Image Toolbox | Supports 20 types of image tools | [Link](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
 | AI Prompt Expert | Generates structured prompts and tests them | [Link](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
 | AI Video Generator | Supports multiple video models | [Link](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
