@@ -42,6 +42,8 @@
 | AI 证件照生成 | 一键生成证件照 | [链接](https://github.com/302ai/302_id_photo_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social) |
 | AI学术搜索 | 使用AI搜索和分析学术论文 | [链接](https://github.com/302ai/302_academic_thesis_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social) |
 | AI专利搜索 | 使用AI搜索和分析专利 | [链接](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
+| AI文档编辑器 | AI版Word | [链接](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
+
 
 
 
