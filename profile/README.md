@@ -42,6 +42,7 @@ It is recommended to experience online first, and then find the projects you are
 | AI ID Photo Generator | Generate ID Photo by one click | [Link](https://github.com/302ai/302_id_photo_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social) |
 | AI Academic Paper Search | Use AI to search and analyze academic papers | [Link](https://github.com/302ai/302_academic_thesis_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social) |
 | AI Patent Search | Use AI to search and analyze patents | [Link](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
+| AI Document Editor | An AI version Word | [Link](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
 
 
 ### Weekly updates, stay tuned.
