@@ -42,6 +42,8 @@
 | AI 証明写真生成 | ワンクリックで証明写真を生成 | [リンク](https://github.com/302ai/302_id_photo_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social) |
 | AI学術検索 | AIを使用して学術論文を検索および分析 | [リンク](https://github.com/302ai/302_academic_thesis_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social) |
 | AI特許検索 | AIを使用して特許を検索および分析 | [リンク](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
+| AIドキュメントエディター | AI版Word | [リンク](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
+
 
 
 毎週更新、ご注目ください
