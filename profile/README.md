@@ -20,7 +20,33 @@ It is recommended to experience online first, and then find the projects you are
 
 *(We have open-sourced 23 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
-**1. 302-Dev-Kit** 
+| # | Tool | Description | Link | Stars |
+|----|----------|------|------|-------|
+| 1 | 302-Dev-Kit | The starting template for all our AI Apps | [Link](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
+| 2 | 302-LLM-Playground | A powerful and interactive playground for experimenting LLM | [Link](https://github.com/302ai/302_llm_playground) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_llm_playground?style=social) |
+| 3 | AI Image Toolbox | Supports 20 types of image tools | [Link](https://github.com/302ai/302_image_toolbox) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social) |
+| 4 | AI Prompt Expert | Generates structured prompts and tests them | [Link](https://github.com/302ai/302_prompt_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social) |
+| 5 | AI Video Generator | Supports multiple video models | [Link](https://github.com/302ai/302_video_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_generator?style=social) |
+| 6 | AI Real-time Video Translation | AI translates videos and plays them online | [Link](https://github.com/302ai/302_video_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_translation?style=social) |
+| 7 | AI Audio/Video Summarizer | One-click summary of video content | [Link](https://github.com/302ai/302_video_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_video_summary?style=social) |
+| 8 | AI Image Translation | Translates text in images and generates new images | [Link](https://github.com/302ai/302_image_translation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_image_translation?style=social) |
+| 9 | AI Paper Writing | Searches online information and generates long papers with AI | [Link](https://github.com/302ai/302_paper_writting) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_paper_writting?style=social) |
+| 10 | AI Voice Generator | Supports multiple TTS-APIs | [Link](https://github.com/302ai/302_tts) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_tts?style=social) |
+| 11 | AI Voice Call | Real-time voice chat using real-time API | [Link](https://github.com/302ai/302_voice_call) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_voice_call?style=social) |
+| 12 | AI Webpage Generator | Generates React applications from text or image input | [Link](https://github.com/302ai/302_coder_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_coder_generator?style=social) |
+| 13 | AI Podcast Generator | Quickly generates AI voice podcasts | [Link](https://github.com/302ai/302_podcast_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social) |
+| 14 | AI Copywriting Assistant | Quickly optimizes copy based on prompts | [Link](https://github.com/302ai/302_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social) |
+| 15 | AI Old Photo Restoration | Enlarges, colorizes, and generates videos from old photos | [Link](https://github.com/302ai/302_photo_restore) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_photo_restore?style=social) |
+| 16 | AI e-commerce copywriting assistant | Quickly optimizes e-commerce copy based on prompts | [Link](https://github.com/302ai/302_e_commerce_copywriting_assistant) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social) |
+| 17 | AI Webpage Summary | Summarize webpage content with one click | [Link](https://github.com/302ai/302_webpage_summary) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_webpage_summary?style=social) |
+| 18 | AI Avatar Maker | Generate selfies with different styles | [Link](https://github.com/302ai/302_avatar_maker) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_avatar_maker?style=social) |
+| 19 | AI E-commerce Image Generator | Generate model or product scene images | [Link](https://github.com/302ai/302_ecom_image_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ecom_image_generator?style=social) |
+| 20 | AI ID Photo Generator | Generate ID Photo by one click | [Link](https://github.com/302ai/302_id_photo_generation) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social) |
+| 21 | AI Academic Paper Search | Use AI to search and analyze academic papers | [Link](https://github.com/302ai/302_academic_thesis_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social) |
+| 22 | AI Patent Search | Use AI to search and analyze patents | [Link](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
+| 23 | AI Document Editor | An AI version Word | [Link](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
+
+## 1. 302-Dev-Kit ##
 
 The starting template for all our AI Apps 
 
@@ -36,7 +62,7 @@ The starting template for all our AI Apps
 
 <a href="https://github.com/302ai/302-Dev-Kit"><img src="https://github.com/302ai/.github/blob/main/302-dev-kit.png?raw=true"/></a>
 
-**2. 302-LLM-Playground**
+## 2. 302-LLM-Playground ##
 
 A powerful and interactive playground for experimenting LLM
 
@@ -53,7 +79,7 @@ A powerful and interactive playground for experimenting LLM
  
 <a href="https://github.com/302ai/302_llm_playground"><img src="https://github.com/302ai/.github/blob/main/302-LLM-%E6%B8%B8%E4%B9%90%E5%9C%BAen.png?raw=true"/></a>
 
-**3. AI ImageToolbox** 
+## 3. AI ImageToolbox ##
 
 Supports 20 types of image tools 
 
@@ -70,7 +96,7 @@ Supports 20 types of image tools
 
 <a href="https://github.com/302ai/302_image_toolbox"><img src="https://github.com/302ai/.github/blob/main/%E5%9B%BE%E7%89%87%E5%B7%A5%E5%85%B7%E7%AE%B1en.png?raw=true"/></a>
 
-**4. AI Prompt Expert** 
+## 4. AI Prompt Expert ##
 
 Generates structured prompts and tests them 
 
@@ -86,7 +112,7 @@ Generates structured prompts and tests them
 [saas-image9]: https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social
 <a href="https://github.com/302ai/302_prompt_generator"><img src="https://github.com/302ai/.github/blob/main/%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%B8%93%E5%AE%B6en.png?raw=true"/></a>
 
-**5. AI Video Generator** 
+## 5. AI Video Generator ##
 
 Supports multiple video models 
 
@@ -102,7 +128,7 @@ Supports multiple video models
 [saas-image11]: https://img.shields.io/github/stars/302ai/302_video_generator?style=social
 <a href="https://github.com/302ai/302_video_generator"><img src="https://github.com/302ai/.github/blob/main/AI%20%E8%A7%86%E9%A2%91%E7%94%9F%E6%88%90%E5%99%A8en.png?raw=true"/></a>
 
-**6. AI Real-time Video Translation** 
+## 6. AI Real-time Video Translation ##
 
 AI translates videos and plays them online 
 
@@ -118,7 +144,7 @@ AI translates videos and plays them online
 [saas-image13]: https://img.shields.io/github/stars/302ai/302_video_translation?style=social
 <a href="https://github.com/302ai/302_video_translation"><img src="https://github.com/302ai/.github/blob/main/%E8%A7%86%E9%A2%91%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91en.png?raw=true"/></a>
 
-**7. AI Audio/Video Summarizer** 
+## 7. AI Audio/Video Summarizer ##
 
 One-click summary of video content 
 
@@ -134,7 +160,7 @@ One-click summary of video content
 [saas-image15]: https://img.shields.io/github/stars/302ai/302_video_summary?style=social
 <a href="https://github.com/302ai/302_video_summary"><img src="https://github.com/302ai/.github/blob/main/%E9%9F%B3%E8%A7%86%E9%A2%91%E6%80%BB%E7%BB%93en.png?raw=true"/></a>
 
-**8. AI Image Translation** 
+## 8. AI Image Translation ##
 
 Translates text in images and generates new images 
 
@@ -150,7 +176,7 @@ Translates text in images and generates new images
 [saas-image17]: https://img.shields.io/github/stars/302ai/302_image_translation?style=social
 <a href="https://github.com/302ai/302_image_translation"><img src="https://github.com/302ai/.github/blob/main/AI%20%E5%9B%BE%E7%89%87%E7%BF%BB%E8%AF%91%20en.png?raw=true"/></a>
 
-**9. AI Paper Writing** 
+## 9. AI Paper Writing ##
 
 Searches online information and generates long papers with AI 
 
@@ -166,7 +192,7 @@ Searches online information and generates long papers with AI
 [saas-image19]: https://img.shields.io/github/stars/302ai/302_paper_writting?style=social
 <a href="https://github.com/302ai/302_paper_writting"><img src="https://github.com/302ai/.github/blob/main/%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9Cen.png?raw=true"/></a>
 
-**10. AI Voice Generator** 
+## 10. AI Voice Generator ##
 
 Supports multiple TTS-APIs 
 
@@ -182,7 +208,7 @@ Supports multiple TTS-APIs
 [saas-image21]: https://img.shields.io/github/stars/302ai/302_tts?style=social
 <a href="https://github.com/302ai/302_tts"><img src="https://github.com/302ai/.github/blob/main/%E8%AF%AD%E9%9F%B3%E7%94%9F%E6%88%90%E5%99%A8en.png?raw=true"/></a>
 
-**11. AI Voice Call** 
+## 11. AI Voice Call ##
 
 Real-time voice chat using real-time API 
 
@@ -198,7 +224,7 @@ Real-time voice chat using real-time API
 [saas-image23]: https://img.shields.io/github/stars/302ai/302_voice_call?style=social
 <a href="https://github.com/302ai/302_voice_call"><img src="https://github.com/302ai/.github/blob/main/%E8%AF%AD%E9%9F%B3%E9%80%9A%E8%AF%9Den.png?raw=true"/></a>
 
-**12. AI Webpage Generator** 
+## 12. AI Webpage Generator ##
 
 Generates React applications from text or image input 
 
@@ -214,7 +240,7 @@ Generates React applications from text or image input
 [saas-image25]: https://img.shields.io/github/stars/302ai/302_coder_generator?style=social
 <a href="https://github.com/302ai/302_coder_generator"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%BD%91%E9%A1%B5%E7%94%9F%E6%88%90%E5%99%A8en.png?raw=true"/></a>
 
-**13. AI Podcast Generator** 
+## 13. AI Podcast Generator ##
 
 Quickly generates AI voice podcasts 
 
@@ -230,7 +256,7 @@ Quickly generates AI voice podcasts
 [saas-image27]: https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social
 <a href="https://github.com/302ai/302_podcast_generator"><img src="https://github.com/302ai/.github/blob/main/%E6%92%AD%E5%AE%A2%E7%94%9F%E6%88%90%E5%99%A8en.png?raw=true"/></a>
 
-**14. AI Copywriting Assistant** 
+## 14. AI Copywriting Assistant ##
 
 Quickly optimizes copy based on prompts 
 
@@ -246,7 +272,7 @@ Quickly optimizes copy based on prompts
 [saas-image29]: https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social
 <a href="https://github.com/302ai/302_copywriting_assistant"><img src="https://github.com/302ai/.github/blob/main/AI%E6%96%87%E6%A1%88%E5%8A%A9%E6%89%8Ben.png?raw=true"/></a>
 
-**15. AI e-commerce copywriting assistant** 
+## 15. AI e-commerce copywriting assistant ##
 
 Quickly optimizes e-commerce copy based on prompts 
 
@@ -262,7 +288,7 @@ Quickly optimizes e-commerce copy based on prompts
 [saas-image31]: https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social
 <a href="https://github.com/302ai/302_e_commerce_copywriting_assistant"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%94%B5%E5%95%86%E6%96%87%E6%A1%88%E5%8A%A9%E6%89%8Ben.png?raw=true"/></a>
 
-**16. AI Old Photo Restoration** 
+## 16. AI Old Photo Restoration ##
 
 Enlarges, colorizes, and generates videos from old photos 
 
@@ -278,7 +304,7 @@ Enlarges, colorizes, and generates videos from old photos
 [saas-image33]: https://img.shields.io/github/stars/302ai/302_photo_restore?style=social
 <a href="https://github.com/302ai/302_photo_restore"><img src="https://github.com/302ai/.github/blob/main/AI%20%E8%80%81%E7%85%A7%E7%89%87%E4%BF%AE%E5%A4%8Den.png?raw=true"/></a>
 
-**17. AI Webpage Summary** 
+## 17. AI Webpage Summary ##
 
 Summarize webpage content with one click 
 
@@ -294,7 +320,7 @@ Summarize webpage content with one click
 [saas-image35]: https://img.shields.io/github/stars/302ai/302_webpage_summary?style=social
 <a href="https://github.com/302ai/302_webpage_summary"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%BD%91%E9%A1%B5%E6%80%BB%E7%BB%93en.png?raw=true"/></a>
 
-**18. AI Avatar Maker** 
+## 18. AI Avatar Maker ##
 
 Generate selfies with different styles 
 
@@ -310,7 +336,7 @@ Generate selfies with different styles
 [saas-image37]: https://img.shields.io/github/stars/302ai/302_avatar_maker?style=social
 <a href="https://github.com/302ai/302_avatar_maker"><img src="https://github.com/302ai/.github/blob/main/AI%20%E5%A4%B4%E5%83%8F%E5%88%B6%E4%BD%9Cen.png?raw=true"/></a>
 
-**19. AI E-commerce Image Generator** 
+## 19. AI E-commerce Image Generator ##
 
 Generate model or product scene images 
 
@@ -326,7 +352,7 @@ Generate model or product scene images
 [saas-image39]: https://img.shields.io/github/stars/302ai/302_ecom_image_generator?style=social
 <a href="https://github.com/302ai/302_ecom_image_generator"><img src="https://github.com/302ai/.github/blob/main/AI%20%E7%94%B5%E5%95%86%E5%9C%BA%E6%99%AF%E5%9B%BE%E7%94%9F%E6%88%90en.png?raw=true"/></a>
 
-**20. AI ID Photo Generator** 
+## 20. AI ID Photo Generator ##
 
 Generate ID Photo by one click 
 
@@ -342,7 +368,7 @@ Generate ID Photo by one click
 [saas-image41]: https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social
 <a href="https://github.com/302ai/302_id_photo_generation"><img src="https://github.com/302ai/.github/blob/main/%E8%AF%81%E4%BB%B6%E7%85%A7%E7%94%9F%E6%88%90en.png?raw=true"/></a>
 
-**21. AI Academic Paper Search** 
+## 21. AI Academic Paper Search ##
 
 Use AI to search and analyze academic papers 
 
@@ -358,7 +384,7 @@ Use AI to search and analyze academic papers
 [saas-image43]: https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social
 <a href="https://github.com/302ai/302_academic_thesis_search"><img src="https://github.com/302ai/.github/blob/main/AI%20%E5%AD%A6%E6%9C%AF%E8%AE%BA%E6%96%87%E6%90%9C%E7%B4%A2en.png?raw=true"/></a>
 
-**22. AI Patent Search** 
+## 22. AI Patent Search ##
 
 Use AI to search and analyze patents 
 
@@ -374,7 +400,7 @@ Use AI to search and analyze patents
 [saas-image45]: https://img.shields.io/github/stars/302ai/302_patent_search?style=social
 <a href="https://github.com/302ai/302_patent_search"><img src="https://github.com/302ai/.github/blob/main/AI%20%E4%B8%93%E5%88%A9%E6%90%9C%E7%B4%A2en.png?raw=true"/></a>
 
-**23. AI Document Editor** 
+## 23. AI Document Editor ##
 
 An AI version Word 
 
