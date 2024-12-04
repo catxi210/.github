@@ -71,7 +71,7 @@
 
 [saas-url]: https://302.ai/ja/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url4]: https://302.ai/apis/
+[saas-url4]: https://302.ai/ja/apis/
 [saas-image4]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url5]: https://github.com/302ai/302_llm_playground
 [saas-image5]: https://img.shields.io/github/stars/302ai/302_llm_playground?style=social
