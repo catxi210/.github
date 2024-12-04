@@ -9,7 +9,7 @@
   <p>A pay-as-you-go All-In-One AI App platform</p>
 </h3>
 
-[中文](README_zh.md) | [English](README.md) | [日本語](README_ja.md)
+<p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ## Online Experience
 All tools can be used online without deployment on the 302.AI platform: [Link](https://302.ai/tools/).
