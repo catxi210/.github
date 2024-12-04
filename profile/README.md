@@ -12,7 +12,7 @@
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ## Online Experience
-All tools can be used online without deployment on the 302.AI platform: [Link](https://302.ai/tools/).
+All tools can be used online without deployment on the 302.AI platform: [Link](https://302.ai/en/tools/).
 
 It is recommended to experience online first, and then find the projects you are interested in from the list for private deployment or secondary development.
 
@@ -72,7 +72,7 @@ A powerful and interactive playground for experimenting LLM
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url4]: https://302.ai/apis/
+[saas-url4]: https://302.ai/en/apis/
 [saas-image4]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url5]: https://github.com/302ai/302_llm_playground
 [saas-image5]: https://img.shields.io/github/stars/302ai/302_llm_playground?style=social
@@ -89,7 +89,7 @@ Supports 20 types of image tools
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url6]: https://302.ai/tools/pictool/
+[saas-url6]: https://302.ai/en/tools/pictool/
 [saas-image6]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url7]: https://github.com/302ai/302_image_toolbox
 [saas-image7]: https://img.shields.io/github/stars/302ai/302_image_toolbox?style=social
@@ -106,7 +106,7 @@ Generates structured prompts and tests them
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url8]: https://302.ai/tools/prompter/
+[saas-url8]: https://302.ai/en/tools/prompter/
 [saas-image8]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url9]: https://github.com/302ai/302_prompt_generator
 [saas-image9]: https://img.shields.io/github/stars/302ai/302_prompt_generator?style=social
@@ -122,7 +122,7 @@ Supports multiple video models
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url10]: https://302.ai/tools/vgen/
+[saas-url10]: https://302.ai/en/tools/vgen/
 [saas-image10]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url11]: https://github.com/302ai/302_video_generator
 [saas-image11]: https://img.shields.io/github/stars/302ai/302_video_generator?style=social
@@ -138,7 +138,7 @@ AI translates videos and plays them online
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url12]: https://302.ai/tools/vt/
+[saas-url12]: https://302.ai/en/tools/vt/
 [saas-image12]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url13]: https://github.com/302ai/302_video_translation
 [saas-image13]: https://img.shields.io/github/stars/302ai/302_video_translation?style=social
@@ -154,7 +154,7 @@ One-click summary of video content
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url14]: https://302.ai/tools/videosum/
+[saas-url14]: https://302.ai/en/tools/videosum/
 [saas-image14]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url15]: https://github.com/302ai/302_video_summary
 [saas-image15]: https://img.shields.io/github/stars/302ai/302_video_summary?style=social
@@ -170,7 +170,7 @@ Translates text in images and generates new images
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url16]: https://302.ai/tools/pt/
+[saas-url16]: https://302.ai/en/tools/pt/
 [saas-image16]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url17]: https://github.com/302ai/302_image_translation
 [saas-image17]: https://img.shields.io/github/stars/302ai/302_image_translation?style=social
@@ -186,7 +186,7 @@ Searches online information and generates long papers with AI
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url18]: https://302.ai/tools/paper/
+[saas-url18]: https://302.ai/en/tools/paper/
 [saas-image18]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url19]: https://github.com/302ai/302_paper_writting
 [saas-image19]: https://img.shields.io/github/stars/302ai/302_paper_writting?style=social
@@ -202,7 +202,7 @@ Supports multiple TTS-APIs
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url20]: https://302.ai/tools/tts/
+[saas-url20]: https://302.ai/en/tools/tts/
 [saas-image20]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url21]: https://github.com/302ai/302_tts
 [saas-image21]: https://img.shields.io/github/stars/302ai/302_tts?style=social
@@ -218,7 +218,7 @@ Real-time voice chat using real-time API
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url22]: https://302.ai/tools/realtime/
+[saas-url22]: https://302.ai/en/tools/realtime/
 [saas-image22]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url23]: https://github.com/302ai/302_voice_call
 [saas-image23]: https://img.shields.io/github/stars/302ai/302_voice_call?style=social
@@ -234,7 +234,7 @@ Generates React applications from text or image input
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url24]: https://302.ai/tools/coder/
+[saas-url24]: https://302.ai/en/tools/coder/
 [saas-image24]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url25]: https://github.com/302ai/302_coder_generator
 [saas-image25]: https://img.shields.io/github/stars/302ai/302_coder_generator?style=social
@@ -250,7 +250,7 @@ Quickly generates AI voice podcasts
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url26]: https://302.ai/tools/podcast/
+[saas-url26]: https://302.ai/en/tools/podcast/
 [saas-image26]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url27]: https://github.com/302ai/302_podcast_generator
 [saas-image27]: https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social
@@ -266,7 +266,7 @@ Quickly optimizes copy based on prompts
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url28]: https://302.ai/tools/writing/
+[saas-url28]: https://302.ai/en/tools/writing/
 [saas-image28]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url29]: https://github.com/302ai/302_copywriting_assistant
 [saas-image29]: https://img.shields.io/github/stars/302ai/302_copywriting_assistant?style=social
@@ -282,7 +282,7 @@ Quickly optimizes e-commerce copy based on prompts
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url30]: https://302.ai/tools/ecom/
+[saas-url30]: https://302.ai/en/tools/ecom/
 [saas-image30]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url31]: https://github.com/302ai/302_e_commerce_copywriting_assistant
 [saas-image31]: https://img.shields.io/github/stars/302ai/302_e_commerce_copywriting_assistant?style=social
@@ -298,7 +298,7 @@ Enlarges, colorizes, and generates videos from old photos
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url32]: https://302.ai/tools/restoration/
+[saas-url32]: https://302.ai/en/tools/restoration/
 [saas-image32]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url33]: https://github.com/302ai/302_photo_restore
 [saas-image33]: https://img.shields.io/github/stars/302ai/302_photo_restore?style=social
@@ -314,7 +314,7 @@ Summarize webpage content with one click
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url34]: https://302.ai/tools/websum/
+[saas-url34]: https://302.ai/en/tools/websum/
 [saas-image34]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url35]: https://github.com/302ai/302_webpage_summary
 [saas-image35]: https://img.shields.io/github/stars/302ai/302_webpage_summary?style=social
@@ -330,7 +330,7 @@ Generate selfies with different styles
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url36]: https://302.ai/tools/headshot/
+[saas-url36]: https://302.ai/en/tools/headshot/
 [saas-image36]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url37]: https://github.com/302ai/302_avatar_maker
 [saas-image37]: https://img.shields.io/github/stars/302ai/302_avatar_maker?style=social
@@ -346,7 +346,7 @@ Generate model or product scene images
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url38]: https://302.ai/tools/ecom1/
+[saas-url38]: https://302.ai/en/tools/ecom1/
 [saas-image38]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url39]: https://github.com/302ai/302_ecom_image_generator
 [saas-image39]: https://img.shields.io/github/stars/302ai/302_ecom_image_generator?style=social
@@ -362,7 +362,7 @@ Generate ID Photo by one click
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url40]: https://302.ai/tools/idphotos/
+[saas-url40]: https://302.ai/en/tools/idphotos/
 [saas-image40]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url41]: https://github.com/302ai/302_id_photo_generation
 [saas-image41]: https://img.shields.io/github/stars/302ai/302_id_photo_generation?style=social
@@ -378,7 +378,7 @@ Use AI to search and analyze academic papers
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url42]: https://302.ai/tools/academic/
+[saas-url42]: https://302.ai/en/tools/academic/
 [saas-image42]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url43]: https://github.com/302ai/302_academic_thesis_search
 [saas-image43]: https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social
@@ -394,7 +394,7 @@ Use AI to search and analyze patents
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url44]: https://302.ai/tools/patent/
+[saas-url44]: https://302.ai/en/tools/patent/
 [saas-image44]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url45]: https://github.com/302ai/302_patent_search
 [saas-image45]: https://img.shields.io/github/stars/302ai/302_patent_search?style=social
@@ -410,7 +410,7 @@ An AI version Word
 
 [saas-url]: https://302.ai/en/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url46]: https://302.ai/tools/word/
+[saas-url46]: https://302.ai/en/tools/word/
 [saas-image46]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url47]: https://github.com/302ai/302_document_editor
 [saas-image47]: https://img.shields.io/github/stars/302ai/302_document_editor?style=social
