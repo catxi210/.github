@@ -52,7 +52,7 @@
 [![Saas][Saas-image]][saas-url]
 [![Saas][Saas-image3]][saas-url3]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url2]: https://302.ai/apis/
 [saas-image2]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -69,7 +69,7 @@
 [![Saas][Saas-image4]][saas-url4]
 [![Saas][Saas-image5]][saas-url5]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url4]: https://302.ai/apis/
 [saas-image4]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -86,7 +86,7 @@
 [![Saas][Saas-image6]][saas-url6]
 [![Saas][Saas-image7]][saas-url7]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url6]: https://302.ai/tools/pictool/
 [saas-image6]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -103,7 +103,7 @@
 [![Saas][Saas-image8]][saas-url8]
 [![Saas][Saas-image9]][saas-url9]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url8]: https://302.ai/tools/prompter/
 [saas-image8]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -119,7 +119,7 @@
 [![Saas][Saas-image10]][saas-url10]
 [![Saas][Saas-image11]][saas-url11]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url10]: https://302.ai/tools/vgen/
 [saas-image10]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -135,7 +135,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image12]][saas-url12]
 [![Saas][Saas-image13]][saas-url13]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url12]: https://302.ai/tools/vt/
 [saas-image12]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -151,7 +151,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image14]][saas-url14]
 [![Saas][Saas-image15]][saas-url15]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url14]: https://302.ai/tools/videosum/
 [saas-image14]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -167,7 +167,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image16]][saas-url16]
 [![Saas][Saas-image17]][saas-url17]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url16]: https://302.ai/tools/pt/
 [saas-image16]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -183,7 +183,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image18]][saas-url18]
 [![Saas][Saas-image19]][saas-url19]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url18]: https://302.ai/tools/paper/
 [saas-image18]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -199,7 +199,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image20]][saas-url20]
 [![Saas][Saas-image21]][saas-url21]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url20]: https://302.ai/tools/tts/
 [saas-image20]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -215,7 +215,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image22]][saas-url22]
 [![Saas][Saas-image23]][saas-url23]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url22]: https://302.ai/tools/realtime/
 [saas-image22]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -231,7 +231,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image24]][saas-url24]
 [![Saas][Saas-image25]][saas-url25]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url24]: https://302.ai/tools/coder/
 [saas-image24]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -247,7 +247,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image26]][saas-url26]
 [![Saas][Saas-image27]][saas-url27]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url26]: https://302.ai/tools/podcast/
 [saas-image26]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -263,7 +263,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image28]][saas-url28]
 [![Saas][Saas-image29]][saas-url29]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url28]: https://302.ai/tools/writing/
 [saas-image28]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -279,7 +279,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image30]][saas-url30]
 [![Saas][Saas-image31]][saas-url31]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url30]: https://302.ai/tools/ecom/
 [saas-image30]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -295,7 +295,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image32]][saas-url32]
 [![Saas][Saas-image33]][saas-url33]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url32]: https://302.ai/tools/restoration/
 [saas-image32]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -311,7 +311,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image34]][saas-url34]
 [![Saas][Saas-image35]][saas-url35]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url34]: https://302.ai/tools/websum/
 [saas-image34]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -327,7 +327,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image36]][saas-url36]
 [![Saas][Saas-image37]][saas-url37]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url36]: https://302.ai/tools/headshot/
 [saas-image36]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -343,7 +343,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image38]][saas-url38]
 [![Saas][Saas-image39]][saas-url39]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url38]: https://302.ai/tools/ecom1/
 [saas-image38]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -359,7 +359,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image40]][saas-url40]
 [![Saas][Saas-image41]][saas-url41]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url40]: https://302.ai/tools/idphotos/
 [saas-image40]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -375,7 +375,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image42]][saas-url42]
 [![Saas][Saas-image43]][saas-url43]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url42]: https://302.ai/tools/academic/
 [saas-image42]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -391,7 +391,7 @@ AI翻译视频并在线播放
 [![Saas][Saas-image44]][saas-url44]
 [![Saas][Saas-image45]][saas-url45]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url44]: https://302.ai/tools/patent/
 [saas-image44]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
@@ -407,7 +407,7 @@ AI版Word
 [![Saas][Saas-image46]][saas-url46]
 [![Saas][Saas-image47]][saas-url47]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
 [saas-url46]: https://302.ai/tools/word/
 [saas-image46]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
