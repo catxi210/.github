@@ -18,6 +18,9 @@
 
 ## オープンソースリスト
 
+*(私たちは、さまざまな分野を対象とする23のプロジェクトをオープンソース化しましたので、リストは少し長いですが、お探しのものが見つかるはずです)* 😅
+
+
 | # | ツール名 | 説明 | Link | Stars |
 |---|----------|------|--------|-------|
 | 1 | 302-Dev-Kit | すべてのツールの初期開発テンプレート | [Link](https://github.com/302ai/302-Dev-Kit) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social) |
