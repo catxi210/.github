@@ -418,7 +418,6 @@ An AI version Word
 [saas-image47]: https://img.shields.io/github/stars/302ai/302_document_editor?style=social
 <a href="https://github.com/302ai/302_document_editor"><img src="https://github.com/302ai/.github/blob/main/%E6%96%87%E6%A1%A3%E7%BC%96%E8%BE%91%E5%99%A8en.png?raw=true"/></a>
 
-| 24 | AI Music Production | Use AI to generate music and songs | [Link](https://github.com/302ai/302_music_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_music_generator?style=social) |
 
 ## 24. AI Music Production ##
 
