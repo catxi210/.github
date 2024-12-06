@@ -46,6 +46,7 @@
 | 21 | AI学術検索 | AIを使用して学術論文を検索および分析 | [Link](https://github.com/302ai/302_academic_thesis_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_academic_thesis_search?style=social) |
 | 22 | AI特許検索 | AIを使用して特許を検索および分析 | [Link](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
 | 23 | AIドキュメントエディター | AI版Word | [Link](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
+| 24 | AI音楽制作 | AIを使用して音楽や歌を生成する | [Link](https://github.com/302ai/302_music_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_music_generator?style=social) |
 
 
 ## 1. 302-Dev-Kit ##
@@ -417,5 +418,23 @@ AI版Word
 [saas-url47]: https://github.com/302ai/302_document_editor
 [saas-image47]: https://img.shields.io/github/stars/302ai/302_document_editor?style=social
 <a href="https://github.com/302ai/302_document_editor"><img src="https://github.com/302ai/.github/blob/main/%E6%96%87%E6%A1%A3%E7%BC%96%E8%BE%91%E5%99%A8jp.png?raw=true"/></a>
+
+
+## 24. AI音楽制作 ##
+
+AIを使用して音楽や歌を生成する
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image48]][saas-url48]
+[![Saas][Saas-image49]][saas-url49]
+
+[saas-url]: https://302.ai/ja/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url48]: https://302.ai/ja/tools/music/
+[saas-image48]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url49]: https://github.com/302ai/302_music_generator
+[saas-image49]: https://img.shields.io/github/stars/302ai/302_music_generator?style=social
+<a href="https://github.com/302ai/302_music_generator"><img src="https://github.com/302ai/302_music_generator/blob/main/docs/AI%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9Cjp.png?raw=true"/></a>
+
 
 ### 毎週更新、ご注目ください
