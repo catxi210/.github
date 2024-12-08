@@ -6,7 +6,7 @@
 </h3>
 
 <h3 align="center">
-  <p>従量課金制のオールインワンAIアプリプラットフォーム</p>
+  <p>企業のAIアプリケーションプラットフォーム</p>
 </h3>
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
