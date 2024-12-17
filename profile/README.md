@@ -18,7 +18,7 @@ It is recommended to experience online first, and then find the projects you are
 
 ## Open Source List
 
-*(We have open-sourced 24 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
+*(We have open-sourced 25 projects covering various fields, so the list is a bit long, but it should have what you're looking for)* 😅
 
 | # | Tool | Description | Link | Stars |
 |----|----------|------|------|-------|
@@ -46,6 +46,7 @@ It is recommended to experience online first, and then find the projects you are
 | 22 | AI Patent Search | Use AI to search and analyze patents | [Link](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
 | 23 | AI Document Editor | An AI version Word | [Link](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
 | 24 | AI Music Production | Use AI to generate music and songs | [Link](https://github.com/302ai/302_music_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_music_generator?style=social) |
+| 25 | AI Whiteboard | Quickly create sketches on a whiteboard using AI | [Link](https://github.com/302ai/302_whiteboard) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_whiteboard?style=social) |
 
 
 ## 1. 302-Dev-Kit ##
@@ -435,5 +436,21 @@ Use AI to generate music and songs
 [saas-image49]: https://img.shields.io/github/stars/302ai/302_music_generator?style=social
 <a href="https://github.com/302ai/302_music_generator"><img src="https://github.com/302ai/302_music_generator/blob/main/docs/AI%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9Cen.png?raw=true"/></a>
 
+
+## 25. AI Whiteboard ##
+
+Quickly create sketches on a whiteboard using AI
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image50]][saas-url50]
+[![Saas][Saas-image51]][saas-url51]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url50]: https://302.ai/en/tools/whiteboard/
+[saas-image50]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url51]: https://github.com/302ai/302_whiteboard
+[saas-image51]: https://img.shields.io/github/stars/302ai/302_whiteboard?style=social
+<a href="https://github.com/302ai/302_whiteboard"><img src="https://raw.githubusercontent.com/302ai/302_whiteboard/refs/heads/main/docs/%E7%94%BB%E5%9B%BE%E6%9D%BF.png?raw=true"/></a>
 
 ### Weekly updates, stay tuned.
