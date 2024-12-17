@@ -45,6 +45,7 @@
 | 22 | AI专利搜索 | 使用AI搜索和分析专利 | [链接](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
 | 23 | AI文档编辑器 | AI版Word | [链接](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
 | 24 | AI音乐制作 | 使用AI进行音乐和歌曲的创作 | [链接](https://github.com/302ai/302_music_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_music_generator?style=social) |
+| 25 | AI画图板 | 使用AI在白板上快速创建草图 | [链接](https://github.com/302ai/302_whiteboard) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_whiteboard?style=social) |
 
 
 ## 1. 302-Dev-Kit ##
@@ -433,5 +434,21 @@ AI版Word
 [saas-url49]: https://github.com/302ai/302_music_generator
 [saas-image49]: https://img.shields.io/github/stars/302ai/302_music_generator?style=social
 <a href="https://github.com/302ai/302_music_generator"><img src="https://github.com/302ai/302_music_generator/blob/main/docs/AI%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9C.png?raw=true"/></a>
+
+## 25. AI画图板 ##
+
+使用AI在白板上快速创建草图
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image50]][saas-url50]
+[![Saas][Saas-image51]][saas-url51]
+
+[saas-url]: https://302.ai/en/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url50]: https://302.ai/en/tools/whiteboard/
+[saas-image50]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url51]: https://github.com/302ai/302_whiteboard
+[saas-image51]: https://img.shields.io/github/stars/302ai/302_whiteboard?style=social
+<a href="https://github.com/302ai/302_whiteboard"><img src="https://raw.githubusercontent.com/302ai/302_whiteboard/refs/heads/main/docs/%E7%94%BB%E5%9B%BE%E6%9D%BF.png?raw=true"/></a>
 
 ### 每周更新，保持关注。
