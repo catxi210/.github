@@ -47,6 +47,7 @@
 | 22 | AI特許検索 | AIを使用して特許を検索および分析 | [Link](https://github.com/302ai/302_patent_search) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_patent_search?style=social) |
 | 23 | AIドキュメントエディター | AI版Word | [Link](https://github.com/302ai/302_document_editor) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_document_editor?style=social) |
 | 24 | AI音楽制作 | AIを使用して音楽や歌を生成する | [Link](https://github.com/302ai/302_music_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_music_generator?style=social) |
+| 25 | AIホワイトボード | AIを使って素早くホワイトボードにスケッチを作成しよう！ | [Link](https://github.com/302ai/302_whiteboard) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_whiteboard?style=social) |
 
 
 ## 1. 302-Dev-Kit ##
@@ -436,5 +437,20 @@ AIを使用して音楽や歌を生成する
 [saas-image49]: https://img.shields.io/github/stars/302ai/302_music_generator?style=social
 <a href="https://github.com/302ai/302_music_generator"><img src="https://github.com/302ai/302_music_generator/blob/main/docs/AI%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9Cjp.png?raw=true"/></a>
 
+## 25. AIホワイトボード ##
+
+AIを使って素早くホワイトボードにスケッチを作成しよう
+
+[![Saas][Saas-image]][saas-url]
+[![Saas][Saas-image50]][saas-url50]
+[![Saas][Saas-image51]][saas-url51]
+
+[saas-url]: https://302.ai/ja/tools/
+[saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
+[saas-url50]: https://302.ai/ja/tools/whiteboard/
+[saas-image50]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
+[saas-url51]: https://github.com/302ai/302_whiteboard
+[saas-image51]: https://img.shields.io/github/stars/302ai/302_whiteboard?style=social
+<a href="https://github.com/302ai/302_whiteboard"><img src="https://raw.githubusercontent.com/302ai/302_whiteboard/refs/heads/main/docs/%E7%94%BB%E5%9B%BE%E6%9D%BF.png?raw=true"/></a>
 
 ### 毎週更新、ご注目ください
