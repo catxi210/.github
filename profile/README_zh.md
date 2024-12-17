@@ -443,9 +443,9 @@ AI版Word
 [![Saas][Saas-image50]][saas-url50]
 [![Saas][Saas-image51]][saas-url51]
 
-[saas-url]: https://302.ai/en/tools/
+[saas-url]: https://302.ai/tools/
 [saas-image]: https://img.shields.io/badge/SaaS-302.AI-8A2BE2?logo=microsoftedge
-[saas-url50]: https://302.ai/en/tools/whiteboard/
+[saas-url50]: https://302.ai/tools/whiteboard/
 [saas-image50]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url51]: https://github.com/302ai/302_whiteboard
 [saas-image51]: https://img.shields.io/github/stars/302ai/302_whiteboard?style=social
