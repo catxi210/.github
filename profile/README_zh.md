@@ -449,6 +449,6 @@ AI版Word
 [saas-image50]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url51]: https://github.com/302ai/302_whiteboard
 [saas-image51]: https://img.shields.io/github/stars/302ai/302_whiteboard?style=social
-<a href="https://github.com/302ai/302_whiteboard"><img src="https://raw.githubusercontent.com/302ai/302_whiteboard/refs/heads/main/docs/%E7%94%BB%E5%9B%BE%E6%9D%BF.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_whiteboard"><img src="https://raw.githubusercontent.com/302ai/302_whiteboard/refs/heads/main/docs/302_Whiteboard.png"/></a>
 
 ### 每周更新，保持关注。
