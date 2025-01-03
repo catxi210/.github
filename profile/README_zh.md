@@ -467,7 +467,7 @@ AI版Word
 [saas-image52]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url53]: https://github.com/302ai/302_video_creation_hub
 [saas-image53]: https://img.shields.io/github/stars/302ai/302_video_creation_hub?style=social
-<a href="https://github.com/302ai/302_video_creation_hub"><img src="https://raw.githubusercontent.com/302ai/302_video_creation_hub/refs/heads/main/docs/302_Video_Creation_Hub_cn.png"/></a>
+<a href="https://github.com/302ai/302_video_creation_hub"><img src="/AI视频素材创意站.png"/></a>
 
 ## 27. AI简历制作 ##
 
@@ -483,7 +483,7 @@ AI版Word
 [saas-image54]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url55]: https://github.com/302ai/302_resume
 [saas-image55]: https://img.shields.io/github/stars/302ai/302_resume?style=social
-<a href="https://github.com/302ai/302_resume"><img src="https://raw.githubusercontent.com/302ai/302_resume/refs/heads/main/docs/302_Resume_Creation_cn.png"/></a>
+<a href="https://github.com/302ai/302_resume"><img src="/AI简历制作.png"/></a>
 
 ## 28. AI照片说话 ##
 
@@ -499,6 +499,6 @@ AI版Word
 [saas-image56]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url57]: https://github.com/302ai/302_lipsync
 [saas-image57]: https://img.shields.io/github/stars/302ai/302_lipsync?style=social
-<a href="https://github.com/302ai/302_lipsync"><img src="https://raw.githubusercontent.com/302ai/302_lipsync/refs/heads/main/docs/302_Talking_Photo_cn.png"/></a>
+<a href="https://github.com/302ai/302_lipsync"><img src="/AI照片说话.png"/></a>
 
 ### 每周更新，保持关注。
