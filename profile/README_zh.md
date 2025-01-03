@@ -162,7 +162,7 @@ AI翻译视频并在线播放
 [saas-image14]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url15]: https://github.com/302ai/302_video_summary
 [saas-image15]: https://img.shields.io/github/stars/302ai/302_video_summary?style=social
-<a href="https://github.com/302ai/302_video_summary"><img src="https://raw.githubusercontent.com/302ai/302_video_summary/refs/heads/main/docs/302_AI_Video_Summarization_cn.png"/></a>
+<a href="https://github.com/302ai/302_video_summary"><img src="/302_AI_Video_Summarization_cn.png"/></a>
 
 ## 8. AI图像翻译 ##
 
@@ -258,7 +258,7 @@ AI翻译视频并在线播放
 [saas-image26]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url27]: https://github.com/302ai/302_podcast_generator
 [saas-image27]: https://img.shields.io/github/stars/302ai/302_podcast_generator?style=social
-<a href="https://github.com/302ai/302_podcast_generator"><img src="https://github.com/302ai/.github/blob/main/%E6%92%AD%E5%AE%A2%E7%94%9F%E6%88%90%E5%99%A8.png?raw=true"/></a>
+<a href="https://github.com/302ai/302_podcast_generator"><img src="/302_Podcast_Generator_cn.png"/></a>
 
 ## 14. AI文案助手 ##
 
