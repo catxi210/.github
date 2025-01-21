@@ -68,7 +68,7 @@
 [saas-url67]: https://github.com/302ai/ai-sdk
 [saas-image67]: https://img.shields.io/github/stars/302ai/ai-sdk?style=social
 
-<a href="https://github.com/302ai/ai-sdk"><img src="https://github.com/302ai/.github/blob/main/302_AI_SDK.png?raw=true"/></a>
+<a href="https://github.com/302ai/ai-sdk"><img src="/302_AI_SDK.png"/></a>
 
 ## 2. 302-Dev-Kit ##
 
