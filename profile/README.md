@@ -617,6 +617,6 @@ Use AI to generate vector graphics or generate videos based on vector graphics
 [saas-image70]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url71]: https://github.com/302ai/302_vector_graphics_generation
 [saas-image71]: https://img.shields.io/github/stars/302ai/302_vector_graphics_generation?style=social
-<a href="https://github.com/302ai/302_vector_graphics_generation"><img src="/AI矢量图生成en.png"/></a>
+<a href="https://github.com/302ai/302_vector_graphics_generation"><img src="/矢量图生成en.png"/></a>
 
 ### Weekly updates, stay tuned.
