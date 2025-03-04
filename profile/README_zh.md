@@ -92,7 +92,7 @@
 [saas-url3]: https://github.com/302ai/302-Dev-Kit
 [saas-image3]: https://img.shields.io/github/stars/302ai/302-Dev-Kit?style=social
 
-<a href="https://github.com/302ai/302-Dev-Kit"><img src="/302-Dev-Kit.jpg"/></a>
+<a href="https://github.com/302ai/302-Dev-Kit"><img src="/302-dev-kit.png"/></a>
 
 ## 3. 302-LLM-Playground ##
 
