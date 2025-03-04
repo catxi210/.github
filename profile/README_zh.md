@@ -735,6 +735,6 @@ AI模型代码能力大比拼
 [saas-image84]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url85]: https://github.com/302ai/302_code_arena
 [saas-image85]: https://img.shields.io/github/stars/302ai/302_code_arena?style=social
-<a href="https://github.com/302ai/302_code_arena"><img src="/302_代码竞技场.png"/></a>
+<a href="https://github.com/302ai/302_code_arena"><img src="/代码竞技场.png"/></a>
 
 ### 每周更新，保持关注。
