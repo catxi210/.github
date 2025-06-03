@@ -877,6 +877,6 @@ AIを使った小説執筆
 [saas-image102]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url103]: https://github.com/302ai/302_novel_writing
 [saas-image103]: https://img.shields.io/github/stars/302ai/302_novel_writing?style=social
-<a href="https://github.com/302ai/302_novel_writing"><img src="/AI小说写作jp.jpg"/></a> 
+<a href="https://github.com/302ai/302_novel_writing"><img src="/AI小说写作jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
