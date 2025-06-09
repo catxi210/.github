@@ -893,6 +893,6 @@ AIモデルの音声生成能力の比較
 [saas-image104]: https://img.shields.io/badge/Web-Online-orange?logo=microsoftedge
 [saas-url105]: https://github.com/302ai/302_ai_voice_arena
 [saas-image105]: https://img.shields.io/github/stars/302ai/302_ai_voice_arena?style=social
-<a href="https://github.com/302ai/302_ai_voice_arena"><img src="/语音竞技场jp.jpg"/></a> 
+<a href="https://github.com/302ai/302_ai_voice_arena"><img src="/语音竞技场jp.png"/></a> 
 
 ### 毎週更新、ご注目ください
