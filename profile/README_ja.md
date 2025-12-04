@@ -86,7 +86,7 @@
 | 52 | ボイスアリーナ | AIモデルの音声生成能力の比較 | [Link](https://github.com/302ai/302_ai_voice_arena) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_voice_arena?style=social)
 | 53 | デジタルヒューマン生成 | AIを用いたデジタル人分身の生成 | [Link](https://github.com/302ai/302_ai_avatar_generator) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_avatar_generator?style=social)
 | 54 | AIポートレートクリエイティブステーション | ポートレート写真を入力し、さまざまなスタイルの写真に生成します | [Link](https://github.com/302ai/302_ai_portraithub) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_portraithub?style=social)
-| 55 | AI翻訳マスター | AIを使って迅速に正確な翻訳を生成 | [Link](https://github.com/302ai/ai-translate-master) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/ai-translate-master?style=social)
+| 55 | AI翻訳マスター | AIを使って迅速に正確な翻訳を生成 | [Link](https://github.com/302ai/ai-translate-master) | ![GitHub Repo stars](https://img.shields.io/github/stars/302ai/302_ai_translater?style=social)
 
 ## MCPサーバリスト
 
